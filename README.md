@@ -1,3 +1,3 @@
 # ToDoApi-for-learning-Nodejs-and-TypeScript
-TODOŠÇ— Node.js Express Typescript—ûK—pƒvƒƒOƒ‰ƒ€
-–¢ƒgƒ‰ƒ“ƒXƒpƒCƒ‹B‘‚«‚Á‚Õ‚è‚ÌŽQl‚Ü‚Å‚ÉBDBŽü‚è‚ÌŽÀ‘•‚àmock’ö“xB
+TODOç®¡ç† Node.js Express Typescriptç·´ç¿’ç”¨ãƒ—ãƒ­ã‚°ãƒ©ãƒ   
+æœªãƒˆãƒ©ãƒ³ã‚¹ãƒ‘ã‚¤ãƒ«ã€‚æ›¸ãã£ã·ã‚Šã®å‚è€ƒã¾ã§ã«ã€‚DBå‘¨ã‚Šã®å®Ÿè£…ã‚‚mockç¨‹åº¦ã€‚
